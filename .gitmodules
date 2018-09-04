@@ -1,0 +1,18 @@
+[submodule "Subprojects/asteroids-core/Libraries/ecx"]
+	path = Subprojects/asteroids-core/Libraries/ecx
+	url = https://github.com/eliasku/ecx.git
+[submodule "Subprojects/asteroids-core/Libraries/ecx-common"]
+	path = Subprojects/asteroids-core/Libraries/ecx-common
+	url = https://github.com/eliasku/ecx-common.git
+[submodule "armsdk/armory"]
+	path = armsdk/armory
+	url = https://github.com/armory3d/armory.git
+[submodule "armsdk/iron"]
+	path = armsdk/iron
+	url = https://github.com/armory3d/iron.git
+[submodule "armsdk/Kha"]
+	path = armsdk/Kha
+	url = https://github.com/Kode/Kha.git
+[submodule "armsdk/nodejs"]
+	path = armsdk/nodejs
+	url = https://github.com/Kode/nodejs_bin.git

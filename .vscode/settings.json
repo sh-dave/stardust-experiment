@@ -1,0 +1,9 @@
+{
+    "kha.khaPath": "armsdk/Kha",
+    "haxe.executable": {
+        "windows": "armsdk\\Kha\\Tools\\haxe\\haxe.exe",
+        "linux": "armsdk/Kha/Tools/haxe/haxe-linux64",
+        "osx": "armsdk/Kha/Tools/haxe/haxe-osx",
+    },
+    "debug.inlineValues": false
+}
